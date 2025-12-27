@@ -1,0 +1,22 @@
+{
+  "users": [],
+  "reports": [
+    {
+      "id": 1766820828800,
+      "name": "hub house cafe",
+      "location": "coimbatore",
+      "description": "burger",
+      "image": "1766820828776-hub house.webp",
+      "likes": 2
+    },
+    {
+      "id": 1766822437164,
+      "name": "beach",
+      "category": "Travel",
+      "location": "chennai",
+      "description": "best place for relaxation",
+      "image": "1766822437160-chennai beach.jfif",
+      "likes": 0
+    }
+  ]
+}
